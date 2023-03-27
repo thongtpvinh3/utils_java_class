@@ -1,4 +1,4 @@
-package exception.okhttpexception;
+package io.github.thongtpvinh3.exception.okhttpexception;
 
 public class OkHttpException extends Exception {
 

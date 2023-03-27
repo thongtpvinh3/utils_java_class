@@ -1,4 +1,4 @@
-package static_init;//package static_init;
+package io.github.thongtpvinh3.static_init;//package static_init;
 //
 //import com.squareup.okhttp.OkHttpClient;
 //

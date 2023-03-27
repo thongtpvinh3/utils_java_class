@@ -1,6 +1,6 @@
 package org.example;
 
-import utils.OkHttpUtil;
+import io.github.thongtpvinh3.utils.OkHttpUtil;
 
 import java.util.HashMap;
 import java.util.Map;

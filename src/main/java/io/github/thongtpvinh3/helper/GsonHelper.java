@@ -1,4 +1,4 @@
-package helper;
+package io.github.thongtpvinh3.helper;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;

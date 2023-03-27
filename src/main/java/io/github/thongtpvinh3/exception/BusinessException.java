@@ -1,4 +1,4 @@
-package exception;
+package io.github.thongtpvinh3.exception;
 
 
 public class BusinessException extends RuntimeException {

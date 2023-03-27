@@ -1,8 +1,8 @@
-package utils;
+package io.github.thongtpvinh3.utils;
 
-import constant.HttpStatus;
-import exception.NetworkApiException;
-import helper.GsonHelper;
+import io.github.thongtpvinh3.constant.HttpStatus;
+import io.github.thongtpvinh3.exception.NetworkApiException;
+import io.github.thongtpvinh3.helper.GsonHelper;
 import lombok.extern.slf4j.Slf4j;
 import okhttp3.*;
 

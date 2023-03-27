@@ -1,4 +1,4 @@
-package utils;
+package io.github.thongtpvinh3.utils;
 
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;

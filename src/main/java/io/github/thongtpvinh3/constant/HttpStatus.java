@@ -1,4 +1,4 @@
-package constant;
+package io.github.thongtpvinh3.constant;
 
 public interface HttpStatus {
     int SC_CONTINUE = 100;
